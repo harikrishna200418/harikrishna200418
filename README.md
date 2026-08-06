@@ -42,7 +42,7 @@ Computer Science and Engineering graduate with hands-on experience building Java
 <td>
 
 **🏢 Associate Software Engineer Intern**
-Ayush EduVibe · *Feb 2026 – Apr 2026 · Remote*
+Ayush EduVibe · *Feb 2026 – Aug 2026 · Remote*
 - Developed and maintained software features as part of an agile team, contributing to design, implementation, and testing of application modules in Java.
 - Collaborated cross-functionally to deliver efficient, well-documented code aligned with project timelines and quality standards.
 

@@ -105,18 +105,6 @@ Contributed to a global ed-tech platform that has placed 500+ students across th
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishna200418&theme=synthwave&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishna200418&theme=synthwave&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">

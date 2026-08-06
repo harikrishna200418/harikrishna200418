@@ -42,7 +42,7 @@ Computer Science and Engineering graduate with hands-on experience building Java
 <td>
 
 **🏢 Associate Software Engineer Intern**
-Ayush EduVibe · *Feb 2026 – Aug 2026 · Remote*
+Ayush EduVibe · *Feb 2026 – Apr 2026 · Remote*
 - Developed and maintained software features as part of an agile team, contributing to design, implementation, and testing of application modules in Java.
 - Collaborated cross-functionally to deliver efficient, well-documented code aligned with project timelines and quality standards.
 
@@ -108,16 +108,7 @@ Contributed to a global ed-tech platform that has placed 500+ students across th
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harikrishna200418&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishna200418&theme=synthwave&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishna200418&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harikrishna200418&theme=discord&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 <p align="center">

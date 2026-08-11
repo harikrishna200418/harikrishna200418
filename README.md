@@ -104,6 +104,11 @@ Contributed to a global ed-tech platform that has placed 500+ students across th
 - 🗄️ SQL (Intermediate) — HackerRank
 
 ---
+### 📚 Currently Learning
+- 🔵 **Building with the Claude API** — 16/85 lessons (Anthropic Academy)
+- 🔵 **MCP: Advanced Topics** — 1/15 lessons (Anthropic Academy)
+
+📓 Following along in [anthropic-academy-notes](https://github.com/harikrishna200418/anthropic-academy-notes)
 
 ### 🐍 Contribution Snake
 

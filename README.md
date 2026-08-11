@@ -103,7 +103,7 @@ Contributed to a global ed-tech platform that has placed 500+ students across th
 
 | Course | Progress |
 |---|---|
-| Building with the Claude API | ![](https://geps.dev/progress/19?dangerColor=800000&warningColor=ff9900&successColor=6DB33F) 16 / 85 lessons |
+| Building with the Claude API | ![](https://geps.dev/progress/19?dangerColor=800000&warningColor=ff9900&successColor=6DB33F) 17 / 85 lessons |
 | Model Context Protocol: Advanced Topics | ![](https://geps.dev/progress/7?dangerColor=800000&warningColor=ff9900&successColor=6DB33F) 1 / 15 lessons |
 
 > Updated manually as lessons are completed — last updated: **Aug 2026**

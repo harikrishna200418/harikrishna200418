@@ -99,14 +99,28 @@ Contributed to a global ed-tech platform that has placed 500+ students across th
 
 ### 📚 Currently Learning
 
-**Anthropic Academy**
+<div align="center">
 
-| Course | Progress |
-|---|---|
-| Building with the Claude API | ![](https://geps.dev/progress/19?dangerColor=800000&warningColor=ff9900&successColor=6DB33F) 35 / 85 lessons |
-| Model Context Protocol: Advanced Topics | ![](https://geps.dev/progress/7?dangerColor=800000&warningColor=ff9900&successColor=6DB33F) 1 / 15 lessons |
+**🧠 Anthropic Academy**
 
-> Updated manually as lessons are completed — last updated: **Aug 2026**
+<table>
+<tr>
+<th align="left">Course</th>
+<th align="center">Lessons Completed</th>
+</tr>
+<tr>
+<td>🔹 Building with the Claude API</td>
+<td align="center"><img src="https://img.shields.io/badge/35%20%2F%2085-lessons-6DB33F?style=for-the-badge"/></td>
+</tr>
+<tr>
+<td>🔹 Model Context Protocol: Advanced Topics</td>
+<td align="center"><img src="https://img.shields.io/badge/1%20%2F%2015-lessons-007396?style=for-the-badge"/></td>
+</tr>
+</table>
+
+<sub>📅 Updated manually as lessons are completed — last updated **Aug 2026**</sub>
+
+</div>
 
 ---
 

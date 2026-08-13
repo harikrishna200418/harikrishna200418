@@ -113,8 +113,8 @@ Contributed to a global ed-tech platform that has placed 500+ students across th
 <td align="center"><img src="https://img.shields.io/badge/35%20%2F%2085-lessons-6DB33F?style=for-the-badge"/></td>
 </tr>
 <tr>
-<td>🔹 Model Context Protocol: Advanced Topics</td>
-<td align="center"><img src="https://img.shields.io/badge/1%20%2F%2015-lessons-007396?style=for-the-badge"/></td>
+  <td>🔹 Model Context Protocol: Advanced Topics</td>
+  <td align="center"><img src="https://img.shields.io/badge/15%20%2F%2015-lessons-6DB33F?style=for-the-badge"/></td>
 </tr>
 </table>
 
